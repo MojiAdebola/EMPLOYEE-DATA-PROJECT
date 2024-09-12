@@ -5,6 +5,6 @@ countifs
 sumif 
 sum 
 sumifs 
-nested if
-date dif
+nestedif
+datedif
 if
